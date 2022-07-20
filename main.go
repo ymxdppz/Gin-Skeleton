@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"practice/lib"
-	"practice/router"
+	"gin-skeleton/app/lib"
+	"gin-skeleton/router"
 )
 
 func main() {

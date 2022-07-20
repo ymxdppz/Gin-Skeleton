@@ -2,9 +2,9 @@ package controller
 
 import (
 	"fmt"
+	"gin-skeleton/app/lib"
+	"gin-skeleton/app/model"
 	"github.com/gin-gonic/gin"
-	"practice/app/lib"
-	"practice/app/model"
 )
 
 var _loginController *loginController

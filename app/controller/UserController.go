@@ -1,8 +1,8 @@
 package controller
 
 import (
+	"gin-skeleton/app/lib"
 	"github.com/gin-gonic/gin"
-	"practice/lib"
 )
 
 func Info(c *gin.Context) {

@@ -2,3 +2,5 @@ vendor/
 .idea/
 .git/
 .github/
+config.json
+config/*.json

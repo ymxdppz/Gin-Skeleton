@@ -1,9 +1,9 @@
 package router
 
 import (
+	"gin-skeleton/app/controller"
+	"gin-skeleton/app/middleware"
 	"github.com/gin-gonic/gin"
-	"practice/app/controller"
-	"practice/app/middleware"
 )
 
 func Router() *gin.Engine {

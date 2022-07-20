@@ -2,11 +2,11 @@ package lib
 
 import (
 	"fmt"
+	"gin-skeleton/config"
 	"github.com/mitchellh/mapstructure"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 	"gorm.io/gorm/schema"
-	"practice/config"
 )
 
 var DbDriver map[string]*gorm.DB

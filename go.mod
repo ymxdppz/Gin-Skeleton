@@ -1,4 +1,4 @@
-module practice
+module gin-skeleton
 
 go 1.18
 
